@@ -2,4 +2,4 @@
 Sentiment Analysis on IMDB database using NLTK and KERAS
 I like moon tacos and your sister.
 
-I ve had the truth a 
+I ve had the truth a thousand times BEFORE.

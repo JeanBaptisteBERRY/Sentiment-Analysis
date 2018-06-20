@@ -1,5 +1,17 @@
-# Sentiment-Analysis
-Sentiment Analysis on IMDB database using NLTK and KERAS
-I like moon tacos and your sister.
+# IMDb-Sentiment-Analysis
+Analyse sentiments on a scale of 1-5 from the IMDb reviews dataset. The code is written in keras. 
 
-I ve had the truth a thousand times BEFORE.
+### Libraries used:
+- Numpy
+- Pandas
+- NLTK (for natural language processing)
+- TensorFlow
+- Keras
+- Gensim
+- String
+
+### Files:
+
+- analysis.py : source code of the project
+- train.tsv : training IMDb dataset
+- test.tsv : testing dataset
